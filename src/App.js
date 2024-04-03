@@ -10,7 +10,7 @@ const images = [
 ];
 
 
-function App() {
+function App() { 
 
   const [current, setcurrent] = useState(0);
 
